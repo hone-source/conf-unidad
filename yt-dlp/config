@@ -1,0 +1,21 @@
+# Save in ~/Dowloads
+-P ~/Downloads
+
+# Nombres de archivo decentes
+-o %(title)s.%(ext)s
+
+# Mostrar progreso de forma chida
+--progress
+--newline
+
+# Mejor calidad disponible (video + audio)
+-f bestvideo+bestaudio/best
+
+# Número de fragmentos paralelos
+--concurrent-fragments 3
+
+# Metadatos y miniaturas
+--embed-metadata
+--embed-thumbnail
+--add-metadata
+
