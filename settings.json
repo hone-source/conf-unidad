@@ -1,0 +1,13 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.sideBar.location": "right",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.minimap.autohide": "mouseover",
+    "editor.scrollbar.vertical":"hidden",
+    "editor.overviewRulerBorder":false,
+    "editor.matchBrackets": "always",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSurroundingLines": 1
+}
